@@ -1,2 +1,2 @@
 # golang-intro-projects
-Golamg beginner friendly projects
+Golang beginner friendly projects
